@@ -12,6 +12,6 @@ A high-performance, responsive landing page built for skincare brands to increas
 - **Semantic Structure:** Optimized for accessibility and clean code standards.
 
 ## Live Demo
-Check out the live project here: [https://github.com/Deneiraintan/landingpage-project-acneology.git]
+Check out the live project here: [https://deneiraintan.github.io/landingpage-project-acneology/]
 
 *Created by Deneira Intan Pitaloka*
